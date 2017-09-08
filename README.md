@@ -1,4 +1,4 @@
-# Code of Conduct
+# Policies
 ========
 
 Policies for the ImprovED Collaboratory. 
