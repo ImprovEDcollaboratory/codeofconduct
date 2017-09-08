@@ -1,6 +1,4 @@
 # Policies
-========
-
 Policies for the ImprovED Collaboratory. 
 
 * [Code of Conduct](codeofconduct.md): Code of Conduct for members of the ImprovED Collaboratory
