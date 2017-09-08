@@ -1,4 +1,4 @@
-!Current version is copy/paste from Syndicate example.
+```Current version is copy/paste from Syndicate example.```
 
 # Reporting Guidelines
 
