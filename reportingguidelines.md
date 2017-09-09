@@ -2,7 +2,7 @@
 
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the ImprovED Collaboratory leadership team by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the ImprovED Collaboratory leadership team by emailing Levi.J.Patrick@gmail.com. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
